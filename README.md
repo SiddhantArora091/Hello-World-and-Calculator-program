@@ -58,6 +58,12 @@ These programs are implemented to reinforce concepts such as:
 To introduce beginners to the syntax and structure of C++.  
 This includes learning how to write a simple program that outputs text and performs basic arithmetic.
 
+Output:-
+
+HELLO WORLD
+
+Hi!I Am Siddhant Arora
+
 ### Purpose 2  
 To demonstrate how a C++ program can interact with users through input/output and perform calculations.  
 This helps learners understand variables, data types, and operators in a practical context.
