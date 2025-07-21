@@ -1,0 +1,18 @@
+EXPERIMENT - 1
+Siddhant Arora
+ENTC-B1
+24070123107
+
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout <<"HELLO WORLD\n" ;
+  cout <<"Hi!I Am Siddhant Arora";
+   
+  return 0;
+}
+/*Output:-
+HELLO WORLD
+Hi!I Am Siddhant Arora
+*/
