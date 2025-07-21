@@ -54,17 +54,23 @@ These programs are implemented to reinforce concepts such as:
 
 ## 🎯 Purpose
 
-The main purposes of this project are:
+### Purpose 1  
+To introduce beginners to the syntax and structure of C++.  
+This includes learning how to write a simple program that outputs text and performs basic arithmetic.
 
-- To introduce beginners to the syntax and structure of C++.
-- To demonstrate how to write a program that interacts with the user.
-- To show how basic operations can be performed with minimal code.
-- To serve as a starting point for students learning C++ programming in school or college.
-
-It can be used as a classroom example or as a personal practice exercise for learners.
+### Purpose 2  
+To demonstrate how a C++ program can interact with users through input/output and perform calculations.  
+This helps learners understand variables, data types, and operators in a practical context.
 
 ---
 
 ## ✅ Conclusion
 
-This project provides a simple yet complete demonstration of how C++ can be used to build console applications. It combines both static output (Hello World) and interactive user input (Calculator) to offer a well-rounded beginner experience. Mastering these basics is essential before moving on to more complex topics like
+This project provides a simple yet complete demonstration of how C++ can be used to build console applications. It combines both static output (Hello World) and interactive user input (Calculator) to offer a well-rounded beginner experience. Mastering these basics is essential before moving on to more complex topics like conditionals, loops, functions, and object-oriented programming in C++.
+
+---
+
+## ✍️ Author
+
+**Siddhant Arora**
+
