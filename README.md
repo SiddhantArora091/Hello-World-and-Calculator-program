@@ -1,3 +1,9 @@
+Siddhant Arora
+
+ENTC-B1
+
+24070123107
+
 # C++ Project: Hello World & Basic Arithmetic Calculator
 
 ## 📘 Theory
