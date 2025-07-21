@@ -68,6 +68,25 @@ Hi!I Am Siddhant Arora
 To demonstrate how a C++ program can interact with users through input/output and perform calculations.  
 This helps learners understand variables, data types, and operators in a practical context.
 
+Output:-
+
+Enter the first number:43
+
+Enter the second number:65
+
+
+Sum of given numbers:
+108
+
+The product of num1 and num2 is:
+2795
+
+The division of num1 and num2 is:
+0.661538
+
+The subtraction of num1 and num2 is:
+-22
+
 ---
 
 ## ✅ Conclusion
